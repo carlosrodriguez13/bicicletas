@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+.h1{
+	font-family: arizonia;
+		
+display: flex;
+justify-content: center;}
+
+
+#targeta {
+	margin: 20px;
+	background-color:#747070;
+}
+.catalogo {
+	text-align: center;
+}	
+#parrafo{
+	font-size:0.9em;
+}
+
+.card-text{
+	font-size:1em;
+}
